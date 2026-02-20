@@ -10,6 +10,8 @@ The program communicates with the GitHub REST API (`/users/{username}/events` en
 
 The application runs in interactive CLI mode and continuously accepts commands until manually terminated.
 
+project URL - https://roadmap.sh/projects/github-user-activity
+
 ---
 
 ## Features
